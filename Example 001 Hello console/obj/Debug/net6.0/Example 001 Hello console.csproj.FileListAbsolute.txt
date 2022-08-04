@@ -1,0 +1,15 @@
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\bin\Debug\net6.0\Example 001 Hello console.exe
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\bin\Debug\net6.0\Example 001 Hello console.deps.json
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\bin\Debug\net6.0\Example 001 Hello console.runtimeconfig.json
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\bin\Debug\net6.0\Example 001 Hello console.dll
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\bin\Debug\net6.0\Example 001 Hello console.pdb
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.csproj.AssemblyReference.cache
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.AssemblyInfoInputs.cache
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.AssemblyInfo.cs
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.dll
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\refint\Example 001 Hello console.dll
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.pdb
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\Example 001 Hello console.genruntimeconfig.cache
+C:\Users\Sony\Geek_study\C_sharp\Examples\Example 001 Hello console\obj\Debug\net6.0\ref\Example 001 Hello console.dll
